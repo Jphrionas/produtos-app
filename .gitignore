@@ -1,0 +1,7 @@
+*.log
+*.cache/
+
+vscode/
+code/
+
+node_modules/
